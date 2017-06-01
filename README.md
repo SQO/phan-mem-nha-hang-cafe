@@ -3,7 +3,7 @@ Phần mềm quản lý tính tiền nhà hàng, quán cafe, quán ăn ✓ ứng
 
 
 <h3>Phần mềm tính tiền bán hàng</h3>
-Với một phần mềm tính tiền dành cho nhà hàng, quán cafe là một ứng dụng hệ thống phục cho thu ngân tính tiền bán hàng. Ngoài tính ổn định, không lỗi, thao tác xử lý nhanh khi gọi món hay tính tiền, các vấn đề khác, thì phần mềm tính tiền cần đáp ứng thêm các tiêu chí như:
+Với một phần mềm tính tiền dành cho nhà hàng, quán cafe là một ứng dụng hệ thống phục cho thu ngân tính tiền bán hàng. Ngoài tính ổn định, không lỗi, thao tác xử lý nhanh khi gọi món hay tính tiền, các vấn đề khác, thì <a href="https://medium.com/phanmemtinhtiennhahangcafe">phần mềm tính tiền nhà hàng</a> cần đáp ứng thêm các tiêu chí như:
 
 <ul>
 <li>
@@ -27,5 +27,8 @@ Quản lý kho hàng: quản lý định lượng món ăn - thực đơn, nhậ
 </li>
 <li>
 Ứng dụng quản lý bếp - quầy bar pha chế: đây là ứng dụng giúp cho bếp, quầy pha chế nhận các thực đơn khách gọi được ghi nhận trong hệ thống từ các nhân viên phục vụ bàn mà không cần phải xem các phiếu ghi tay
+</li>
+<li>
+Quản lý kế toán nhà hàng: quản lý thu - chi nội bộ trong nhà hàng
 </li>
 </ul>
