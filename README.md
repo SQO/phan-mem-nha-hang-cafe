@@ -32,3 +32,5 @@ Quản lý kho hàng: quản lý định lượng món ăn - thực đơn, nhậ
 Quản lý kế toán nhà hàng: quản lý thu - chi nội bộ trong nhà hàng
 </li>
 </ul>
+
+Với một hệ thống phần mềm quản lý dành cho nhà hàng, quán cafe đáp ứng đầy đủ các tiêu chí quản lý, cùng với việc chỉ bỏ ra một chi phí đầu tư phần mềm ban đầu tương đối rẻ bạn đã có thể có ngay một mềm tốt đáp ứng mọi yêu cầu quản lý với gói bản quyền vĩnh viễn từ phần mềm ViRES TOTAL ➤ website: <b>cafe.vinas.vn</b>
