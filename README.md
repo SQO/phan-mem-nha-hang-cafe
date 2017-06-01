@@ -12,4 +12,9 @@ Hoạt động tốt trên tất cả các nền tảng thiết bị: máy tính
 <li>
 Các chức năng có tính linh động cao: các chức năng trong phần mềm tính tiền cần có sự linh hoạt để khi nhu cầu quản lý có sự thay đổi không phải chỉnh sửa phần mềm hay đầu tư mua một phần mềm mới. Đặc biệt trong giá bán, nếu thay đổi cách tính giá bán của thực đơn theo các thời điểm khác nhau trong ngày, trong tuần,... phần mềm tính tiền đó có sẵn sàng đáp ứng được hay không? ...
 </li>
+<li>
+Phần mềm tính tiền phải dễ sử dụng, dễ chuyển giao: khi nhân sự thu ngân nhà hàng có sự thay đổi thì phần mềm phải dễ dàng sử dụng để chuyển giao cho thu ngân mới tiếp nhận ngay vào công việc tính tiền mà không phải tốn quá nhiều thời gian để đào tạo lại.
+</li>
 </ul>
+
+<h3>Phần mềm quản lý nhà hàng</h3>
