@@ -18,3 +18,14 @@ Phần mềm tính tiền phải dễ sử dụng, dễ chuyển giao: khi nhân
 </ul>
 
 <h3>Phần mềm quản lý nhà hàng</h3>
+
+Ngoài chức năng cơ bản dùng cho tính tiền thì phần mềm quản lý nhà hàng lại là hệ thống quản lý tổng thể của nhà hàng. Một <a href="http://cafe.vinas.vn">phần mềm quản lý nhà hàng</a> thường có những hệ thống quản lý tập trung như:
+
+<ul>
+<li>
+Quản lý kho hàng: quản lý định lượng món ăn - thực đơn, nhập - xuất - cân đối nguyên liệu thực phẩm đồ uống, tổng hợp báo cáo tồn kho kịp thời & chính xác.
+</li>
+<li>
+Ứng dụng quản lý bếp - quầy bar pha chế: đây là ứng dụng giúp cho bếp, quầy pha chế nhận các thực đơn khách gọi được ghi nhận trong hệ thống từ các nhân viên phục vụ bàn mà không cần phải xem các phiếu ghi tay
+</li>
+</ul>
